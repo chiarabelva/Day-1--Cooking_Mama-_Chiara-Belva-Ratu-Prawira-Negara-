@@ -1,4 +1,4 @@
-# Proyek Workshop Day 1: Student Task Planner
+# Proyek Workshop Day 1: Github and Repository
 
 ## 👤 Informasi Peserta
 * **Nama Lengkap:** Chiara Belva Ratu Prawira
